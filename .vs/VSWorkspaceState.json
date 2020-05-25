@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DataLogger\\Models",
-    "\\DataLogger\\obj",
-    "\\DataLogger\\Resources"
+    "\\DataLogger"
   ],
   "SelectedNode": "\\DataLogger.sln",
   "PreviewInSolutionExplorer": false
